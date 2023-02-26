@@ -1,4 +1,4 @@
-Titre du projet : 
+Titre du projet : CCHATGPTSERVICE
 
 Dans ce Projet , je dois créer un microservice qui interrogera l’API ChatGPT en utilisant la chaine de caractère entrée par l’utilisateur.
 
