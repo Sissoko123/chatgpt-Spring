@@ -9,7 +9,7 @@ Demarrage :
         
  Prérequis :
  
-	- J’ai utilisé Springboot3, Java 17, openapi , maven et actuator . 
+	- J’ai utilisé Springboot3, Java 19 , openapi , maven et actuator . ici j'ai utilisé java 19 car déjà j'avais cette version sur mon pc et  jdk-19 .
 	- j’ai aussi exploité Spring boot , Rest .
 	- Pour le test j’ai installé Postman , pour voir si le retour est juste . Exemple donné dans le DEVOIR .
     
